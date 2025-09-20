@@ -197,7 +197,7 @@ padding:20px;
     color:white;
 }
 .divider{
-    background-color: gray;
+    background-color: white;
     width:99%;
     margin-top: 10px;
     border-radius: 10px;
@@ -264,6 +264,7 @@ padding:20px;
     text-align:center;
     padding: 15px;
 }
+
 
 
 
