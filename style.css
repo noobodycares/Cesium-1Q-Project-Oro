@@ -1,0 +1,270 @@
+body {
+  background-color:gray;
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+}
+
+.header {
+    background-color: black;
+    width:100%;
+    color:white;
+    border-radius: 20px;
+    border:2px solid white;
+}
+.navbar {
+    font-family:'Courier New', Courier, monospace;
+    color:white;
+    display: flex;
+    gap: 20px;
+    align-items:center;
+    margin-left:auto;
+    font-size: 40px;
+    margin-right:40px;
+    justify-content:center;
+    height:90px;
+    position:relative;
+    right:-65px;
+}
+a{
+    text-decoration:none;
+}
+.navitem{
+    border:2px solid white ;
+    border-radius: 10px;
+    border-width:5px;
+}
+.navbar img{
+    width:70px;
+    height: 50px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    border:2px solid white;
+    position:relative;
+    right:-400px;
+}
+
+.Big{
+    display:flex;
+    align-items:center;
+    gap: 150px;
+    padding-right:70px;
+    font-size:30px;
+    background-color: black;
+    border:5px;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+
+
+
+.Big img{
+width:400px;
+height:320px;
+padding:20px;
+}
+.footer{
+    background-color: black;
+    position:fixed;
+    width:99%;
+    bottom:0px;
+    border-radius: 20px;
+    border:2px solid white;
+    
+}
+.foot{
+    display: flex;
+    gap: 10px;
+    justify-content:center;
+    margin-left:auto;
+    font-size: 20px;
+    margin-right:40px;
+    color:white;
+    
+}
+
+
+.First{
+    margin-top:10px;
+    background-color: black;
+    border:5px solid white;
+    margin-bottom: 10px;
+    gap:10px;
+    display:flex;
+    text-align:left;
+    padding:10px;
+    align-items: center;
+    border-radius: 20px;
+    color:white;
+}
+.First img{
+    width: 200px;
+    height : 150px;
+    display: flex;
+    border-radius: 5px;
+}
+.Second img {
+    display: flex;
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+}
+.Second{
+    background-color: black;
+    border:5px solid white;
+    margin-bottom: 10px;
+    gap:10px;
+    display:flex;
+    text-align:left;
+    padding:10px;
+    align-items: center;
+    border-radius: 20px;
+    color:white;
+    
+}
+.Third img{
+    width: 200px;
+    height : 150px;
+    display: flex;
+    border-radius: 5px;
+}
+.Third{
+    background-color: black;
+    border:5px solid white;
+    margin-bottom:10px;
+    gap:10px;
+    display:flex;
+    text-align:left;
+    padding:10px;
+    align-items: center;
+    border-radius: 20px;
+    color:white;
+}
+.context{
+    border: 5px solid white;
+    background-color: black;
+    border-radius: 10px;
+    align-items:center;
+    padding:10px;
+    margin-bottom: 20px;
+    color:white;
+}
+.top{
+    padding-bottom:10px;
+    text-align:left;
+}
+.bottom{
+    padding-bottom:10px;
+    text-align:left;
+}
+
+.Fourth{
+    background-color:black;
+    border:5px solid white;
+    margin-bottom:10px;
+    gap:10px;
+    display:flex;
+    text-align:left;
+    padding:10px;
+    align-items: center;
+    border-radius: 20px;
+    color:white;
+}
+
+.Fifth{
+    background-color: black;
+    border:5px solid white;
+    margin-bottom: 10px;
+    gap:10px;
+    display:flex;
+    text-align:left;
+    padding:10px;
+    align-items: center;
+    border-radius: 20px;
+    color:white;
+    
+}
+
+.Sixth{
+    background-color: black;
+    border:5px solid white;
+    margin-bottom:10px;
+    gap:10px;
+    display:flex;
+    text-align:left;
+    padding:10px;
+    align-items: center;
+    border-radius: 20px;
+    color:white;
+}
+.divider{
+    background-color: gray;
+    width:99%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.compare{
+    display:flex;
+    font-size:20px;
+    gap:50px;
+    background-color: gray;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+.pros{
+    border:5px solid white;
+    background-color: black;
+    border-radius: 10px;
+    color:white;
+
+}
+.cons{
+    border:5px solid white;
+    background-color: black;
+    border-radius: 10px;
+    color:white;
+}
+
+.main{
+    border: 5px solid white;
+    border-radius:10px;
+    background-color: black;
+    font-size:15px;
+    justify-items: center;
+    align-items: center;
+    margin-top:20px;
+    color:white  
+}
+.random{
+    justify-items:center;
+    background-color:black;
+    border-radius:10px;
+    border:5px solid white;
+    margin-top:30px;
+
+}
+.life{
+    background-color: black;
+    border: 5px solid white;
+    border-radius:10px;
+    align-items: center;
+    margin-top:30px;
+    color:white;
+    text-align:center;
+}
+.links{
+    text-decoration: underline;
+}
+.remarks{
+    padding-left:200px;
+    padding-right:200px;
+    color:white;
+
+}
+.context{
+    text-align:center;
+    padding: 15px;
+}
+
+
+
